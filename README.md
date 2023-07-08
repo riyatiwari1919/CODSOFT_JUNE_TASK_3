@@ -2,6 +2,7 @@
 Third task of web development internship at CodSoft.
 
 Task : Calculator
+
 IDE : Visual Studio Code
 
 As per the task given, I designed a Calculator using HTML, CSS and Javascript.
